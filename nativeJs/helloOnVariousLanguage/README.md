@@ -4,13 +4,13 @@ Write a simple regex to check if the string contains the word hallo in different
 
 #These are the languages of the possible people you met the night before:
 
--hello - english
--ciao - italian
--salut - french
--hallo - german
--hola - spanish
--ahoj - czech republic
--czesc - polish
+- hello - english
+- ciao - italian
+- salut - french
+- hallo - german
+- hola - spanish
+- ahoj - czech republic
+- czesc - polish
 
 By the way, how cool is the czech republic hallo!!
 
