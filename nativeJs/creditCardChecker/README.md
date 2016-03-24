@@ -13,6 +13,7 @@ Don´t worry about wrong inputs, they will always be a string with 4 groups of 4
 
 ###Tests:
 
+
         `validCard("5457 6238 9823 4311") # -> true`
         `validCard("5457 6238 9323 4311") # -> false`
         `validCard("3333 3333 3333 3331") # -> true`
