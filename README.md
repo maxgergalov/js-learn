@@ -6,7 +6,7 @@ The project is my javascript training
 
 Now the project includes the following modules:
 - [native js](https://github.com/maxgergalov/js-learn/tree/master/nativeJs) (vanilla)
-- [nodejs](https://github.com/maxgergalov/js-learn/tree/master/nativeJs) (server js)
+- [nodejs](https://github.com/maxgergalov/js-learn/tree/master/nodejs) (server js)
 
 Here are collected tasks in the following js areas:
 - keywords - control statements - logical operators (== vs ===, && and ||)
