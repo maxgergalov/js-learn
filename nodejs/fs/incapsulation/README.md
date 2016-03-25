@@ -1,4 +1,4 @@
-#Incspsulation on simple example
+#Incapsulation on simple example
 ###Description
 
 At this point any of the standard and recommended file structure exists. There is no concept of 
