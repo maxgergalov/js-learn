@@ -2,7 +2,13 @@
 
 The project is my javascript training
 
-Here are collected in the following js areas:
+###About structure
+
+Now the project includes the following modules:
+- [native js](https://github.com/maxgergalov/js-learn/tree/master/nativeJs) (vanilla)
+- [nodejs](https://github.com/maxgergalov/js-learn/tree/master/nativeJs) (server js)
+
+Here are collected tasks in the following js areas:
 - keywords - control statements - logical operators (== vs ===, && and ||)
 - types
 - scope
@@ -19,6 +25,7 @@ Here are collected in the following js areas:
 - typeof
 - setTimeout, setInterval
 - comments
+- server
 
 # What is it?
 In this project I collect interesting tasks of the following resources:
